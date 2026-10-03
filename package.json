@@ -40,7 +40,7 @@
     "redux": "4.0.0",
     "redux-thunk": "2.3.0",
     "regenerator-runtime": "0.12.1",
-    "serverless": "1.32.0",
+    "serverless": "4.43.0",
     "serverless-apigw-binary": "0.4.4",
     "serverless-apigwy-binary": "0.1.0",
     "serverless-cloudfront-invalidate": "1.2.1",
