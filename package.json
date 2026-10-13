@@ -45,7 +45,7 @@
     "serverless-apigwy-binary": "0.1.0",
     "serverless-cloudfront-invalidate": "1.2.1",
     "serverless-finch": "2.2.0",
-    "serverless-offline": "3.25.7",
+    "serverless-offline": "14.8.3",
     "serverless-stack-output": "0.2.3",
     "standard": "11.0.1",
     "string-replace-loader": "2.1.1",
